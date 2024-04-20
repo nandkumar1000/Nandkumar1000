@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nand kumar sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36i80aifmnplhnghbt1w.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandkumar1000&label=Profile%20views&color=0e75b6&style=flat" alt="nandkumar1000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandkumar1000" alt="nandkumar1000" /></a> </p>
