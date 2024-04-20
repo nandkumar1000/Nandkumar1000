@@ -1,5 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1715817600&v=beta&t=D5kQnHFk-SS9m4K52hQaWnz6nmTHrGMOkcJpEPtNpz4)]
-
+![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1715817600&v=beta&t=D5kQnHFk-SS9m4K52hQaWnz6nmTHrGMOkcJpEPtNpz4)
 <h1 align="center">Hi 👋, I'm Nand kumar sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36i80aifmnplhnghbt1w.gif">
