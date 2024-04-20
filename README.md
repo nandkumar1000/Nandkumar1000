@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nand kumar sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="420" src="https://www.google.com/imgres?q=frontend%20developer%20animated%20software%20engineer%20coding%20gif&imgurl=https%3A%2F%2Fmedia.dev.to%2Fcdn-cgi%2Fimage%2Fwidth%3D1000%2Cheight%3D420%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%253A%252F%252Fdev-to-uploads.s3.amazonaws.com%252Fuploads%252Farticles%252F36i80aifmnplhnghbt1w.gif&imgrefurl=https%3A%2F%2Fdev.to%2F&docid=dZPexBT39YZLJM&tbnid=tphN4VznZX3D4M&vet=12ahUKEwj6gYvry8yFAxVXSmwGHWJjA3EQM3oECGwQAA..i&w=800&h=436&hcb=2&itg=1&ved=2ahUKEwj6gYvry8yFAxVXSmwGHWJjA3EQM3oECGwQAA">
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=frontend%20developer%20animated%20software%20engineer%20coding%20gif&imgurl=https%3A%2F%2Fmedia.dev.to%2Fcdn-cgi%2Fimage%2Fwidth%3D1000%2Cheight%3D420%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%253A%252F%252Fdev-to-uploads.s3.amazonaws.com%252Fuploads%252Farticles%252F36i80aifmnplhnghbt1w.gif&imgrefurl=https%3A%2F%2Fdev.to%2F&docid=dZPexBT39YZLJM&tbnid=tphN4VznZX3D4M&vet=12ahUKEwj6gYvry8yFAxVXSmwGHWJjA3EQM3oECGwQAA..i&w=800&h=436&hcb=2&itg=1&ved=2ahUKEwj6gYvry8yFAxVXSmwGHWJjA3EQM3oECGwQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandkumar1000&label=Profile%20views&color=0e75b6&style=flat" alt="nandkumar1000" /> </p>
 
