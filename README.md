@@ -1,8 +1,8 @@
-[![MasterHead](https://www.google.com/imgres?q=web%20developer%20banner%20gif%20animation&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC5612AQErLJQyuT4h2Q%2Farticle-inline_image-shrink_1500_2232%2F0%2F1624597705774%3Fe%3D1715817600%26v%3Dbeta%26t%3DD5kQnHFk-SS9m4K52hQaWnz6nmTHrGMOkcJpEPtNpz4&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-companies-using-javascript-mani-bhargava-banka&docid=B3hv2P0-lN4AQM&tbnid=c99no20jd3YPKM&vet=12ahUKEwjt47XlzcyFAxXJRmwGHQ8mB7QQM3oECE8QAA..i&w=1920&h=590&hcb=2&ved=2ahUKEwjt47XlzcyFAxXJRmwGHQ8mB7QQM3oECE8QAA)]
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1715817600&v=beta&t=D5kQnHFk-SS9m4K52hQaWnz6nmTHrGMOkcJpEPtNpz4)]
 
 <h1 align="center">Hi 👋, I'm Nand kumar sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=frontend%20developer%20animated%20software%20engineer%20coding%20gif&imgurl=https%3A%2F%2Fmedia.dev.to%2Fcdn-cgi%2Fimage%2Fwidth%3D1000%2Cheight%3D420%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%253A%252F%252Fdev-to-uploads.s3.amazonaws.com%252Fuploads%252Farticles%252F36i80aifmnplhnghbt1w.gif&imgrefurl=https%3A%2F%2Fdev.to%2F&docid=dZPexBT39YZLJM&tbnid=tphN4VznZX3D4M&vet=12ahUKEwj6gYvry8yFAxVXSmwGHWJjA3EQM3oECGwQAA..i&w=800&h=436&hcb=2&itg=1&ved=2ahUKEwj6gYvry8yFAxVXSmwGHWJjA3EQM3oECGwQAA">
+<img align="right" alt="coding" width="400" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36i80aifmnplhnghbt1w.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandkumar1000&label=Profile%20views&color=0e75b6&style=flat" alt="nandkumar1000" /> </p>
 
