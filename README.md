@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1715817600&v=beta&t=D5kQnHFk-SS9m4K52hQaWnz6nmTHrGMOkcJpEPtNpz4)
+
 <h1 align="center">Hi 👋, I'm Nand kumar sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbN-U_AhY3jMtEt5Ui-5s8KwlF_UHGorGUg&s">
